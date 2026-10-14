@@ -1,0 +1,117 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\RAT\\2026\\NET\\Gdbk.Web\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{301E887D-21DC-4535-8F6C-F5C1433CBA43}|Gdbk.Web\\Gdbk.Web.csproj|c:\\rat\\2026\\net\\gdbk.web\\gdbk.web\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{301E887D-21DC-4535-8F6C-F5C1433CBA43}|Gdbk.Web\\Gdbk.Web.csproj|solutionrelative:gdbk.web\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{301E887D-21DC-4535-8F6C-F5C1433CBA43}|Gdbk.Web\\Gdbk.Web.csproj|C:\\RAT\\2026\\NET\\Gdbk.Web\\gdbk.web\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{301E887D-21DC-4535-8F6C-F5C1433CBA43}|Gdbk.Web\\Gdbk.Web.csproj|solutionrelative:gdbk.web\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{301E887D-21DC-4535-8F6C-F5C1433CBA43}|Gdbk.Web\\Gdbk.Web.csproj|C:\\RAT\\2026\\NET\\Gdbk.Web\\gdbk.web\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{301E887D-21DC-4535-8F6C-F5C1433CBA43}|Gdbk.Web\\Gdbk.Web.csproj|solutionrelative:gdbk.web\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{301E887D-21DC-4535-8F6C-F5C1433CBA43}|Gdbk.Web\\Gdbk.Web.csproj|C:\\RAT\\2026\\NET\\Gdbk.Web\\gdbk.web\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{301E887D-21DC-4535-8F6C-F5C1433CBA43}|Gdbk.Web\\Gdbk.Web.csproj|solutionrelative:gdbk.web\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{301E887D-21DC-4535-8F6C-F5C1433CBA43}|Gdbk.Web\\Gdbk.Web.csproj|C:\\RAT\\2026\\NET\\Gdbk.Web\\gdbk.web\\views\\home\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{301E887D-21DC-4535-8F6C-F5C1433CBA43}|Gdbk.Web\\Gdbk.Web.csproj|solutionrelative:gdbk.web\\views\\home\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{301E887D-21DC-4535-8F6C-F5C1433CBA43}|Gdbk.Web\\Gdbk.Web.csproj|C:\\RAT\\2026\\NET\\Gdbk.Web\\gdbk.web\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{301E887D-21DC-4535-8F6C-F5C1433CBA43}|Gdbk.Web\\Gdbk.Web.csproj|solutionrelative:gdbk.web\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\RAT\\2026\\NET\\Gdbk.Web\\Gdbk.Web\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "Gdbk.Web\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\RAT\\2026\\NET\\Gdbk.Web\\Gdbk.Web\\Controllers\\UserController.cs",
+              "RelativeToolTip": "Gdbk.Web\\Controllers\\UserController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-13T23:02:20.032Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "About.cshtml",
+              "DocumentMoniker": "C:\\RAT\\2026\\NET\\Gdbk.Web\\Gdbk.Web\\Views\\Home\\About.cshtml",
+              "RelativeDocumentMoniker": "Gdbk.Web\\Views\\Home\\About.cshtml",
+              "ToolTip": "C:\\RAT\\2026\\NET\\Gdbk.Web\\Gdbk.Web\\Views\\Home\\About.cshtml",
+              "RelativeToolTip": "Gdbk.Web\\Views\\Home\\About.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-13T22:40:51.824Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\RAT\\2026\\NET\\Gdbk.Web\\Gdbk.Web\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Gdbk.Web\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\RAT\\2026\\NET\\Gdbk.Web\\Gdbk.Web\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Gdbk.Web\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-13T22:36:50.465Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Contact.cshtml",
+              "DocumentMoniker": "C:\\RAT\\2026\\NET\\Gdbk.Web\\Gdbk.Web\\Views\\Home\\Contact.cshtml",
+              "RelativeDocumentMoniker": "Gdbk.Web\\Views\\Home\\Contact.cshtml",
+              "ToolTip": "C:\\RAT\\2026\\NET\\Gdbk.Web\\Gdbk.Web\\Views\\Home\\Contact.cshtml",
+              "RelativeToolTip": "Gdbk.Web\\Views\\Home\\Contact.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-13T22:32:19.489Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\RAT\\2026\\NET\\Gdbk.Web\\Gdbk.Web\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Gdbk.Web\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\RAT\\2026\\NET\\Gdbk.Web\\Gdbk.Web\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Gdbk.Web\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-13T22:20:36.696Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\RAT\\2026\\NET\\Gdbk.Web\\Gdbk.Web\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Gdbk.Web\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\RAT\\2026\\NET\\Gdbk.Web\\Gdbk.Web\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Gdbk.Web\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-13T22:17:47.843Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

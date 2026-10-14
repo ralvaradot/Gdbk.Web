@@ -1,0 +1,39 @@
+﻿@{
+    ViewBag.Title = "Gdbk Web";
+}
+
+<main>
+    <section class="row" aria-labelledby="aspnetTitle">
+        <h1 id="title">Gdbk.Web</h1>
+        <p class="lead">Sistema con arquitectura por capas.</p>
+
+    </section>
+
+    <div class="row">
+        <section class="col-md-4" aria-labelledby="gettingStartedTitle">
+            <h2 id="gettingStartedTitle">Capa de Presentacion</h2>
+            <p>
+                Usuarios: Consta de dos paginas.
+                Pagina de lista de usuarios en la base de datos, con opcion de Modificar y eleinar en una grilla.
+                Pagina para crear un nuevo usuario.
+            </p>
+            <!--
+            <p><a class="btn btn-outline-dark" href="https://go.microsoft.com/fwlink/?LinkId=301865">Learn more &raquo;</a></p>
+            -->
+        </section>
+        <section class="col-md-4" aria-labelledby="librariesTitle">
+            <h2 id="librariesTitle">Capa de negocios</h2>
+            <p>Servicio WCF que se conecta a una base de datos relacional SQL Server para acceder a las operaciones de la tabla Usuarios.</p>
+            <!--
+            <p><a class="btn btn-outline-dark" href="https://go.microsoft.com/fwlink/?LinkId=301866">Learn more &raquo;</a></p>
+            -->
+        </section>
+        <section class="col-md-4" aria-labelledby="hostingTitle">
+            <h2 id="hostingTitle">Capa de Datos</h2>
+            <p>Base de datos SQL Server que contiene las tablas necesarias para el desarrollo.</p>
+            <!--
+             <p><a class="btn btn-outline-dark" href="https://go.microsoft.com/fwlink/?LinkId=301867">Learn more &raquo;</a></p>
+            -->
+        </section>
+    </div>
+</main>
